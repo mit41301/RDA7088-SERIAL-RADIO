@@ -46,19 +46,19 @@
 // 89.30 MHz as 8930
 
 RADIO_FREQ preset[] = {
-  9110,
+  9110, // City
   9190, // Indigo
-  9270,
-  9350, // Bayern2
+  9270, // Bit
+  9350, // Red
   9430, // Radio One
-  9500, // Red
+  9500, // Mirchi
   9830, // Mirchi
-  10010,
+  10010, // kaamanabillu
   10130, // planet
   10290, // ffh
-  10300,
-  10400,
-  10640 // * FFH
+  10300, // AkashVaani
+  10400, // Hindi
+  10640  // rare
 };
 
 uint16_t presetIndex = 0;  ///< Start at Station with index = 1
@@ -357,4 +357,5 @@ Sketch uses 11064 bytes (34%) of program storage space.
 Maximum is 32256 bytes.
 Global variables use 1453 bytes (70%) of dynamic memory, leaving 595 bytes for local variables. 
 Maximum is 2048 bytes. 
+
 */
