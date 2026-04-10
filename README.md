@@ -1,0 +1,12 @@
+    Serial.println("? Help");  
+    Serial.println("+ increase volume");  
+    Serial.println("- decrease volume");  
+    Serial.println("> next preset");  
+    Serial.println("< previous preset");  
+    Serial.println(". scan up   : scan up to next sender");  
+    Serial.println(", scan down ; scan down to next sender");  
+    Serial.println("fnnnnn: direct frequency input");  
+    Serial.println("i station status");  
+    Serial.println("s mono/stereo mode");  
+    Serial.println("b bass boost");  
+    Serial.println("u mute/unmute");  
