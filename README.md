@@ -1,3 +1,9 @@
+ // open the Serial port for the 1st example   
+  Serial.begin(57600);  
+
+    // open the Serial port for the 2nd example  
+  Serial.begin(115200);  
+    
     Serial.println("? Help");  
     Serial.println("+ increase volume");  
     Serial.println("- decrease volume");  
