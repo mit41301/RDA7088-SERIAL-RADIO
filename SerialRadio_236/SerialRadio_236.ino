@@ -46,19 +46,19 @@
 // 89.30 MHz as 8930
 
 RADIO_FREQ preset[] = {
-  9110, // City
-  9190, // Indigo
-  9270, // Bit
-  9350, // Red
+  9110, // RADIO CITY
+  9190, // INDIGO  
+  9270, // BIG  
+  9350, // RED  
   9430, // Radio One
-  9500, // Mirchi
+  9500, // Mirchi95
   9830, // Mirchi
   10010, // kaamanabillu
   10130, // planet
   10290, // ffh
   10300, // AkashVaani
-  10400, // Hindi
-  10640  // rare
+  10400, // FEVER
+  10640  // rain
 };
 
 uint16_t presetIndex = 0;  ///< Start at Station with index = 1
