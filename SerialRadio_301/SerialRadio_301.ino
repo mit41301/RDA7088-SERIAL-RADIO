@@ -1,4 +1,4 @@
-///
+/// Tested with Arduino UNO 
 /// \file SerialRadio.ino
 /// \brief Radio implementation using the Serial communication.
 ///
@@ -351,3 +351,5 @@ void loop() {
 }  // loop
 
 // End.
+// Sketch uses 11058 bytes (34%) of program storage space. Maximum is 32256 bytes.
+// Global variables use 1447 bytes (70%) of dynamic memory, leaving 601 bytes for local variables. Maximum is 2048 bytes.
